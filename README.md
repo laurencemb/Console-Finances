@@ -3,6 +3,7 @@
 A javascript exercise working with loops and 2D arrays to generate a finacial calculations application with shows in the console.
 
 Link to live site:
+https://laurencemb.github.io/Console-Finances/
 
 Screen shot of deployed site:
 ![screenshot of deployed wepage](/images/Screenshot%202023-01-12%20112315.jpg)
